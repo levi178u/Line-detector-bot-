@@ -58,15 +58,9 @@ We kept things simple and focused:
 ## 💬 What We Learned
 
 - Getting **hardware and code to play nice** takes time and patience.
-- Fine-tuning sensors is critical — small calibration issues can make your bot misbehave badly.
+- Fine-tuning sensors is critical — small calibration issues can make your bot behave badly.
 - Working together and dividing roles helped us move fast and stay motivated.
 - Real-world robotics is nothing like simulations — there’s a lot of debugging on your knees 😄.
-
----
-
-## 🙏 Shoutout
-
-Big thanks to **Ansuman Patro** for his mentorship. And of course, to my teammate **Souvik** — wouldn’t have been half as fun doing this solo.
 
 ---
 
