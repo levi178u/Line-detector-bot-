@@ -8,7 +8,7 @@ This was a fun and intense project that I built with my teammate **Souvik**, and
 
 ## 📸 Our Bot
 
-![Our Bot](OurBOT.jpg)
+![Our Bot](Our_BOT.jpg)
 
 ---
 
