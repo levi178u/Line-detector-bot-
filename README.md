@@ -1,6 +1,6 @@
-# 🤖 Line Detector Bot – Tread-o-Quest Challenge
+# 🤖 Line Detector Bot  "Tread-o-Quest" Challenge
 
-Welcome to our Arduino-based **Line Detector Bot**, built for the thrilling robotics competition **Tread-o-Quest (TOQ)** — where bots race against time through a tricky maze filled with black-and-white lines, sharp turns, and steep ramps.
+Welcome to our Arduino-based **Line Detector Bot**, built for the thrilling robotics competition **Tread-o-Quest (TOQ)** , where bots race against time through a tricky maze filled with black-and-white lines, sharp turns, and steep ramps.
 
 This was a fun and intense project that I built with my teammate **Souvik**, and it taught us a lot about embedded systems, problem-solving under pressure, and teamwork. Huge thanks to our mentor **Ansuman Patro** for always being there to guide us.
 
