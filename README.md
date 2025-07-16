@@ -8,15 +8,13 @@ This was a fun and intense project that I built with my teammate **Souvik**, and
 
 ## 📸 Our Bot
 
-<!-- Replace this with your actual image -->
-![Bot Image Placeholder](images/bot.jpg)
+![Our Bot](OurBOT.jpg)
 
 ---
 
 ## 🧩 The Challenge Track
 
-<!-- Replace this with the actual track/problem statement image -->
-![Track Image Placeholder](images/track.jpg)
+![Track and Problem Statement](TRACK_and_Problem_Statement.jpg)
 
 We were given a maze-like track with:
 - **Black and white lines** for navigation,
@@ -75,22 +73,4 @@ Big thanks to **Ansuman Patro** for his mentorship. And of course, to my teammat
 ## 🗂️ Project Files
 
 Here’s what’s in this repo:
-
-levi178u-line-detector-bot-/
-├── README.md ← You’re here!
-└── main.ino ← Arduino sketch with our control logic
-└──main.py
----
-
-## 🔮 Future Ideas
-
-If we get to improve this further:
-- Add a PID controller for smoother turns.
-- Use encoders to better measure and control speed.
-- Add obstacle detection with ultrasonic sensors.
-- Try Bluetooth control for manual override.
-
----
-
-Thanks for stopping by! Feel free to fork, use, or reach out if you want to collaborate or chat about robotics projects.
 
